@@ -1,0 +1,12 @@
+github에서 토큰발급
+팀장님 토큰
+
+
+https://github.com/kyusang0330/gitTest2024.git
+[팀장(깃을 관리하는 사용자)]
+1. github사이트에 저장소 만들기
+2. 원본저장소 이클립스에 만들고 github에 올리기
+
+
+
+ddd
